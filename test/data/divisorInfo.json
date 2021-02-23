@@ -1,0 +1,12 @@
+{
+  "outputDetails": [
+    {
+      "divisor": 3,
+      "output": "Boss"
+    },
+    {
+      "divisor": 5,
+      "output": "Hogg"
+    }
+  ]
+}

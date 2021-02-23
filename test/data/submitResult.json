@@ -1,0 +1,26 @@
+{
+  "candidate": "<your name>",
+  "text": "Peter told me (actually he slurrred) that peter the pickle piper piped a pitted pickle before he petered out. Phew!",
+  "results": [
+    {
+      "subtext": "Peter",
+      "result": "1, 43, 98"
+    },
+    {
+      "subtext": "peter",
+      "result": "1, 43, 98"
+    },
+    {
+      "subtext": "Pick",
+      "result": "53, 81"
+    },
+    {
+      "subtext": "Pi",
+      "result": "53, 60, 66, 74, 81"
+    },
+    {
+      "subtext": "Z",
+      "result": "<No Output>"
+    }
+  ]
+}
